@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    padding: 0 50px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #888888;
+}
+
+.header__time {
+    margin: 0;
+}
